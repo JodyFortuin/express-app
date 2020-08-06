@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JodyFortuin/express-app.git"
+  },
+  "author": "Jody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JodyFortuin/express-app/issues"
+  },
+  "homepage": "https://github.com/JodyFortuin/express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
